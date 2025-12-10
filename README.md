@@ -230,7 +230,7 @@ Business Intelligence
 
 (Add these after uploading images in your repository)
 
-![Executive Summary](Screenshots/executive_summary.png)
+![Executive Summary](ScreenshotsFiles/Executive_Summary.png)
 ![Geographic Sales](Screenshots/geographic_view.png)
 ![Product Analysis](Screenshots/product_performance.png)
 ![Customer Insights](Screenshots/customer_insights.png)
