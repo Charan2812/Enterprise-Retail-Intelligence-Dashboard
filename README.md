@@ -1,7 +1,7 @@
 # Enterprise-Retail-Intelligence-Dashboard
 A complete Power BI analytics solution delivering actionable insights across sales performance, profitability, customer behavior, product trends, and global market distribution.
 
-## 📌 Overview
+## Overview
 The **Enterprise Retail Intelligence Dashboard** is a multi-page, enterprise-level Business Intelligence solution built using **Power BI**.
 
 This capstone project demonstrates advanced analytical and visualization skills through:
@@ -15,7 +15,7 @@ This capstone project demonstrates advanced analytical and visualization skills 
 
 The dashboard converts raw retail data into a centralized analytical system supporting strategic decisions in sales, marketing, customer segmentation, forecasting, and product performance analysis.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Component | Tool |
 |----------|------|
@@ -26,7 +26,7 @@ The dashboard converts raw retail data into a centralized analytical system supp
 | Dataset | AdventureWorks Retail Dataset |
 | File Types | .pbit, .pdf |
 
-## 📂 Data Sources
+## Data Sources
 This dashboard uses cleaned and curated tables from the AdventureWorks dataset, including:
 
 ### Sales Data
@@ -60,7 +60,7 @@ This dashboard uses cleaned and curated tables from the AdventureWorks dataset, 
 
 All datasets were combined into a clean BI model with relationships established following best practices.
 
-# 📊 Dashboard Pages & Detailed Breakdown
+# Dashboard Pages & Detailed Breakdown
 
 ## 1. Executive Summary Dashboard
 (Main performance overview for business leaders)
@@ -171,7 +171,7 @@ Every customer displayed with:
 - Total Revenue  
 - Demographic attributes  
 
-# ⭐ Key Features of This Project
+# Key Features of This Project
 - Multi-page enterprise dashboard  
 - Clean UI/UX with intuitive navigation  
 - KPI storytelling with actionable business insights  
@@ -180,7 +180,7 @@ Every customer displayed with:
 - Professional data model using BI best practices  
 - Advanced DAX time intelligence and dynamic measures
   
-## 🚀 How to Use
+## How to Use
 
 Download the .pbit file
 
@@ -192,7 +192,7 @@ Refresh all visuals
 
 Navigate across pages for insights
 
-## 🎯 Business Impact
+## Business Impact
 
 This dashboard empowers organizations to:
 
@@ -226,7 +226,7 @@ Dashboard Design
 
 Business Intelligence
 
-## 🖼 Screenshots
+## Screenshots
 
 ## Executive Summary
 ![Executive Summary](https://github.com/Charan2812/Enterprise-Retail-Intelligence-Dashboard/blob/main/Screenshots%20Files/Executive_Summary.png)
@@ -240,7 +240,7 @@ Business Intelligence
 ## Customer Insights
 ![Customer Insights](https://github.com/Charan2812/Enterprise-Retail-Intelligence-Dashboard/blob/main/Screenshots%20Files/Customer%20Insights.png)
 
-## 📁 Recommended Repository Structure
+## Recommended Repository Structure
 
 ```plaintext
 Enterprise-Retail-Intelligence-Dashboard/
