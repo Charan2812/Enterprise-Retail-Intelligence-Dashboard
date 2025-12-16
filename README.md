@@ -210,7 +210,7 @@ Improve return management
 
 Support data-driven decision making
 
-## 🏁 Conclusion
+## Conclusion
 
 The Enterprise Retail Intelligence Dashboard is a powerful demonstration of advanced analytics, BI visualization, data modeling, and business storytelling. It functions as an enterprise-ready solution capable of supporting strategic decision-making across product, sales, marketing, and customer management teams.
 
